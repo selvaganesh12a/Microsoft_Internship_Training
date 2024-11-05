@@ -1,0 +1,1 @@
+A person is booking a ticket in railway. Normal Price is Rs.50 and senior citizen if age is above 60 price is 30. If the child age is below 12 years the price is 20. Calculate the total quantity price of the tickets.
