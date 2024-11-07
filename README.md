@@ -6,3 +6,4 @@ The questions I have practiced during the training period
 4. Red Pen Green Pen
 5. Find Largest Number
 6. Chocolate Factory
+7. Shifting Letters
