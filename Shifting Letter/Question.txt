@@ -1,0 +1,2 @@
+Shifting letter says that we have given a string S & an array shift 
+Now for each shift[i] = x, we want to shift the first i + 1 letters of S, we have to return the final String after all the shifts are applied.
